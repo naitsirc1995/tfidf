@@ -1,0 +1,4 @@
+preprocesing:
+  - 'stem'
+  - 'punctuation'    
+  - 'stop_words' 
